@@ -2,7 +2,9 @@
 
 Hello 👋 , I am **Brian Ivan**, Full Stack Developer.
 
+<!--
 ![alt text](./assets/octocat.png)
+-->
 
 ### Get in touch
 
