@@ -10,6 +10,8 @@
 
 I am a full stack software engineer majoring in Javascript technologies for cross platform application. 
 
+I am from Uganda, living in Kampala.
+
 I am embarking on a journey to build to my skillset and also presence in the tech industry. I am very open to new opportunities to work with a very vibrant and diverse team.
 
 ----
