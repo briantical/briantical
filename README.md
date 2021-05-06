@@ -1,28 +1,25 @@
-### Lutaaya Brian Ivan -- @briantical
+### Hello 👋 , I am *Brian Ivan Lutaaya*, a Full Stack Developer.
 
-Hello 👋 , I am **Brian Ivan**, Full Stack Developer.
+----
 
-<!--
-![alt text](./assets/octocat.png)
--->
+![Twitter URL](https://img.shields.io/twitter/url?label=%40briantical&url=https%3A%2F%2Ftwitter.com%2Fbriantical) 
+![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)
+![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)
+![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)
 
-### Get in touch
 
-- Twitter : [@briantical](https://twitter.com/briantical)
-- Facebook : [Lutaaya Brian Ivan](https://www.facebook.com/lutaaya.brianivan)
-- LinkedIn : [Lutaaya Brian Ivan](https://www.linkedin.com/in/lutaayabrianivan/)
-- Portfolio : moi.briantical.me
-<!--
-**briantical/briantical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack software engineer majoring in Javascript technologies for cross platform application. 
 
-Here are some ideas to get you started:
+I am embarking on a journey to build to my skillset and also presence in the tech industry. I am very open to new opportunities to work with a very vibrant and diverse team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+----
+
+##### ⚙️  Technologies
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+
+----
+
+##### 📈 My GitHub Statitistics
+
+[![Briantical's GitHub stats](https://github-readme-stats.vercel.app/api?username=briantical&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantical&layout=compact&theme=merko&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
