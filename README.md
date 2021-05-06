@@ -2,10 +2,10 @@
 
 ----
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40briantical&url=https%3A%2F%2Ftwitter.com%2Fbriantical) 
-![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)
-![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)
-![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40briantical&url=https%3A%2F%2Ftwitter.com%2Fbriantical)](https://twitter.com/briantical)
+[![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lutaayabrianivan/)
+[![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/lutaaya.brianivan/)
+[![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)](https://wa.me/256789566944)
 
 
 I am a full stack software engineer majoring in Javascript technologies for cross platform application. 
