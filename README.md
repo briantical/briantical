@@ -7,7 +7,8 @@
 [![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/lutaaya.brianivan/)
 [![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)](https://wa.me/256789566944)
 
-I am a software developer currently developing in Javascript technologies for cross platform application and great interest in Python.
+I am a software developer currently developing in Javascript technologies for cross platform applications.
+I also have great interest in Python.
 
 I am from Uganda, living in Kampala.
 
@@ -18,7 +19,7 @@ I am embarking on a journey to build to my skillset and also presence in the tec
 - I was part of the team that won 🥇 the first ever ReloadlyXFlutterwave Hackathon organised by [Reloadly](https://reloadly.com) and [Flutterwave](https://flutterwave.com). The two companies wanted to engage professionals to build amazing projects using Reloadly & Flutterwave APIs. Our project [Plantit!](https://plantit.netlify.app), is a web app designed to promote positive climate actions among users by donating to plant trees.
   More about the hackathon, [here](https://www.reloadly.com/blog/reloadly-flutterwave-hackathon/).
 
-##### Technologies ⚙️ ⚙️ ⚙️
+##### ⚙️ Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 
