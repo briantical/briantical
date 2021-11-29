@@ -7,7 +7,7 @@
 [![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/lutaaya.brianivan/)
 [![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)](https://wa.me/256789566944)
 
-I am a software developer majoring in Javascript technologies for cross platform application and great interest in Python.
+I am a software developer currently developing in Javascript technologies for cross platform application and great interest in Python.
 
 I am from Uganda, living in Kampala.
 
