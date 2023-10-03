@@ -3,16 +3,16 @@
 ---
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40briantical&url=https%3A%2F%2Ftwitter.com%2Fbriantical)](https://twitter.com/briantical)
-[![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lutaayabrianivan/)
-[![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/lutaaya.brianivan/)
+[![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/briantical/)
+[![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/briantical/)
 [![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)](https://wa.me/256789566944)
 
-I am a software developer currently developing in Javascript technologies for cross platform applications.
-I also have great interest in Python.
+I am a software developer currently developing Javascript technologies for cross-platform applications.
+I also have a great interest in Python.
 
 I am from Uganda, living in Kampala.
 
-I am embarking on a journey to build to my skillset and also presence in the tech industry. I am very open to new opportunities to work with a very vibrant and diverse team.
+I am embarking on a journey to build my skill set and a presence in the tech industry. I am open to new opportunities to work with a vibrant and diverse team.
 
 ##### Achievements 🏆 🏆 🏆
 
@@ -25,6 +25,6 @@ I am embarking on a journey to build to my skillset and also presence in the tec
 
 ---
 
-##### 📈 My GitHub Statitistics
+##### 📈 My GitHub Statistics
 
 [![Briantical's GitHub stats](https://github-readme-stats.vercel.app/api?username=briantical&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briantical&layout=compact&theme=merko&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
