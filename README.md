@@ -3,8 +3,8 @@
 ---
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40briantical&url=https%3A%2F%2Ftwitter.com%2Fbriantical)](https://twitter.com/briantical)
-[![Linkedin URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/briantical/)
-[![Facebook URL](https://img.shields.io/badge/%40lutaayabrianivan--blue?style=social&logo=facebook)](https://www.facebook.com/briantical/)
+[![Linkedin URL](https://img.shields.io/badge/%40briantical--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/briantical/)
+[![Facebook URL](https://img.shields.io/badge/%40briantical--blue?style=social&logo=facebook)](https://www.facebook.com/briantical/)
 [![Whatsapp URL](https://img.shields.io/badge/briantical--blue?style=social&logo=whatsapp)](https://wa.me/256789566944)
 
 I am a software developer currently developing Javascript technologies for cross-platform applications.
